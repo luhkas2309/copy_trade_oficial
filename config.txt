@@ -1,0 +1,17 @@
+[GERAL]
+paridade = USDJPY
+valor_entrada = 2
+timeframe = 1
+ 
+martingale = S
+sorosgale = N
+niveis = 1
+
+stop_loss = 1000
+stop_win = 1000
+payout_minimo = 56
+valor_minimo = 200
+filtro_pais = todos
+filtro_top_traders = 0
+filtro_diferenca_sinal = 2
+seguir_ids = 
